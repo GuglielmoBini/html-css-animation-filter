@@ -92,6 +92,14 @@
     margin: 50px 100px;
     width: 400px;
 }
+.ex-9-img {
+    transition: 2s;
+}
+.ex-9-img:hover {
+    transform: scale(1.5);
+    border-radius: 15px;
+    filter: grayscale(1) sepia(0.5);
+}
 
 /* ES-10 */
 
